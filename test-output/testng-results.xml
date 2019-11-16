@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4226" started-at="2019-11-16T15:34:44Z" finished-at="2019-11-16T15:34:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4226" started-at="2019-11-16T15:34:44Z" finished-at="2019-11-16T15:34:48Z">
+      <class name="eg.api.restassured.DemoQA_API">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:eg.api.restassured.DemoQA_API@26653222]" name="setUp" is-config="true" duration-ms="7" started-at="2019-11-16T15:34:44Z" finished-at="2019-11-16T15:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="responseValidation()[pri:0, instance:eg.api.restassured.DemoQA_API@26653222]" name="responseValidation" duration-ms="2378" started-at="2019-11-16T15:34:44Z" finished-at="2019-11-16T15:34:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseValidation -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:eg.api.restassured.DemoQA_API@26653222]" name="setUp" is-config="true" duration-ms="0" started-at="2019-11-16T15:34:46Z" finished-at="2019-11-16T15:34:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="responseValidation2()[pri:0, instance:eg.api.restassured.DemoQA_API@26653222]" name="responseValidation2" duration-ms="1210" started-at="2019-11-16T15:34:46Z" finished-at="2019-11-16T15:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseValidation2 -->
+        <test-method status="PASS" signature="responseValidation3()[pri:0, instance:eg.api.restassured.DemoQA_API@26653222]" name="responseValidation3" duration-ms="599" started-at="2019-11-16T15:34:48Z" finished-at="2019-11-16T15:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseValidation3 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:eg.api.restassured.DemoQA_API@26653222]" name="setUp" is-config="true" duration-ms="0" started-at="2019-11-16T15:34:48Z" finished-at="2019-11-16T15:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- eg.api.restassured.DemoQA_API -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
